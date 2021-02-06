@@ -1,0 +1,122 @@
+Variable,Value,Label
+Sex,1,Males
+,2,Females
+A1,-2,Not answered
+,1,Alcohol
+,2,Tobacco
+,3,Marijuana|Cannabis
+,4,Meth|amphetamine
+,5,Cocaine
+,6,Ecstasy
+,7,Heroin
+,8,Pain-killers|Analgesics|Opioids
+,9,Methadone|Buprenorphine
+,10,Steroids
+,11,Drugs other than listed
+,12,None|Can't think of any
+A2,-2,Not answered
+,1,Alcohol
+,2,Tobacco
+,3,Marijuana|Cannabis
+,4,Meth|amphetamine
+,5,Cocaine
+,6,Ecstasy
+,7,Heroin
+,8,"Pain-killers|Pain-relievers and Opioids (e.g. Panadeine Forte, Nurofen Plus, Morphine)"
+,9,Methadone|Buprenorphine
+,10,Steroids
+,11,Other
+A3,-2,Not answered
+,1,Excessive drinking of alcohol
+,2,Tobacco smoking
+,3,Marijuana|Cannabis
+,4,Non-medical use of Meth|amphetamine
+,5,Cocaine
+,6,Ecstasy
+,7,Heroin
+,8,"Non-medical use of Pain-killers|Pain-relievers and Opioids (e.g. Panadeine Forte, Nurofen Plus, Morphine)"
+,9,Non-medical use of Methadone|Buprenorphine
+,10,Non-medical use of Steroids
+,11,None of these
+A4_01,-4,Invalid response
+,-2,Not answered
+,-1,Don't know enough to say
+,1,Strongly approve
+,2,Approve
+,3,Neither approve nor disapprove
+,4,Disapprove
+,5,Strongly disapprove
+A4_02,-4,Invalid response
+,-2,Not answered
+,-1,Don't know enough to say
+,1,Strongly approve
+,2,Approve
+,3,Neither approve nor disapprove
+,4,Disapprove
+,5,Strongly disapprove
+A4_08,-4,Invalid response
+,-2,Not answered
+,-1,Don't know enough to say
+,1,Strongly approve
+,2,Approve
+,3,Neither approve nor disapprove
+,4,Disapprove
+,5,Strongly disapprove
+B1,-2,Not answered
+,1,Excellent
+,2,Very good
+,3,Good
+,4,Fair
+,5,Poor
+tobsum,-2,Missing
+,1,Daily smoker
+,2,Occasional smoker
+,3,Ex smoker
+,4,Never smoked
+AlcSum,-2,Missing
+,1,Daily
+,2,Weekly
+,3,Less than weekly
+,4,Ex-drinker (not in last 12 months)
+,5,Never drinker (full glass)
+AgeGroup1460p,-1a,Missing
+,1, 14-19
+,2,20-29
+,3,30-39
+,4,40-49
+,5,50-59
+,6,60+
+AverageG1,-2,Missing
+,0,Abstainers
+,1,2 or less drinks on average
+,2,More than 2 drinks on average
+G2_week,-2,Missing
+,0,Abstainer
+,1,Did not consume 5 or more drinks weekly
+,2,Risky (consumed 5 or more drinks at least weekly)
+G2_month,-2,Missing
+,0,Abstainer
+,1,Did not consume 5 or more drinks monthly
+,2,Risky (consumed 5 or more drinks at least monthly)
+G2_year,-2,Missing
+,0,Abstainer
+,1,Low risk (Did not consume 5 or more drinks yearly) 
+,2,Risky (consumed 5 or more drinks at least yearly)
+Marijuana,-2,Missing
+,1,Used in the last 12 months
+,2,Ex user
+,3,Never used
+Anyillicit,-2,Missing
+,1,Used in the last 12 months
+,2,Ex user
+,3,Never used
+Remoteness,1,Major city
+,2,Inner regional
+,3,"Outer regional, remote and very remote"
+Age1265,1,12-17
+,2,18-24
+,3,25-34
+,4,35-44
+,5,45-54
+,6,55-64
+,7,65+

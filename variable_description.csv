@@ -1,0 +1,21 @@
+Variable,Position,Label,Missing Values
+Weight7,1,Absolute person weight ('000s),
+Sex,2,Main sex variable for analysis,
+A1,3,"A1. When people talk about ""a drug problem"", which is the first drug you think of?",-2
+A2,4,A2. Which ONE of these drugs do you think directly or indirectly causes the most deaths in Australia?,-2
+A3,5,A3. Which ONE of these forms of drug use do you think is the most serious concern for the general community?,-2
+A4_01,6,"A4_01. For each of the drugs listed below, do you personally approve or disapprove of their regular use by an adult - Alcohol?",-2
+A4_02,7,"A4_02. For each of the drugs listed below, do you personally approve or disapprove of their regular use by an adult - Tobacco?",-2
+A4_08,8,"A4_08. For each of the drugs listed below, do you personally approve or disapprove of their regular use by an adult - Marijuana/Cannabis?",-2
+B1,9,"B1. In general, would you say your health is...?",-2
+tobsum,10,Summary tobacco status,-2
+AlcSum,11,Summary alcohol status,-2
+AgeGroup1460p,12,Ten year age groups from 14 to 60+,-1
+AverageG1,13,Guideline 1-Lifetime risk,-2
+G2_week,14,Guideline 2 - single occasion risk at least weekly,-2
+G2_month,15,Guideline 2 - single occasion risk at least monthly,-2
+G2_year,16,Guideline 2 - single occasion risk at least yearly,-2
+Marijuana,17,Summary of Marijuana use,-2
+Anyillicit,18,Summary of Any illicit drug use,-2
+Remoteness,19,ASGS Remoteness classification,
+Age1265,20,Ten year age groups 12 to 65+,
